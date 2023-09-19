@@ -1,0 +1,612 @@
+[
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$kTDcxCuWs7Aid5AOWXSXSE$2FPA/gxLXSPbcYeDAq737uTlvJgwzf5DRj/M7jfnMJI=",
+        "last_login": "2021-09-06T06:48:25.737Z",
+        "is_superuser": true,
+        "username": "padmaraju",
+        "first_name": "Padmaraju",
+        "last_name": "Pinnam",
+        "email": "pinnampadmaraju@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-08-29T10:15:26Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$G8V9MygUr9df5xFP3CQZLC$1VH/vWRCDR30yqSjSZE1aVjUwWjBRjh0ug4BXcZH8Gs=",
+        "last_login": "2021-09-06T06:46:19.052Z",
+        "is_superuser": false,
+        "username": "nanipinnam",
+        "first_name": "nani",
+        "last_name": "pinnam",
+        "email": "nani@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-09-05T15:57:08.755Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "0w4i6pk5v9ukkdrlxk79lgn956azmvyr",
+    "fields": {
+        "session_data": "e30:1mN8Gi:tiVsZxgUsKJma5xUNNgxXKfIljqC7ibnR8-0xF_WWks",
+        "expire_date": "2021-09-20T06:38:12.966Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "1811tsbe1rs7ggu7j792gds8bstja8c6",
+    "fields": {
+        "session_data": "e30:1mN8Hk:77kQcBicspFRW7Mi3eZsXmrrWuIxXhPpxAert4YuhcI",
+        "expire_date": "2021-09-20T06:39:16.367Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "aszt7xls5fkhtwxk4ik66ms9zg84oom7",
+    "fields": {
+        "session_data": "e30:1mN4KO:Ho1oO1Q26GwyWEAjLneAeTInjjHaFt3yhKqJgK9vUrI",
+        "expire_date": "2021-09-20T02:25:44.489Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "cofm8z38msoxfqy1hngucwjmd2jobj14",
+    "fields": {
+        "session_data": ".eJxVi0sKwjAQQO-StZR8Jpi4U_AcYWaaIUFNwaQr8e624EK37_NSCddR0trzM9VZnZRRh19GyLfcdoHMy9pGn3aZ26iMoy5tuj6w3s8bu3zTv79gL9vskDxKEI8Wj4FZg3hnJFtPPvooGgy5GAzATKCNZY5EjjkIoQ4E6v0B6d44bA:1mN8Qb:1HCE8jz79Y-2bQSd2aIR8s8ziTzwFjifVWy9wyeqPxU",
+        "expire_date": "2021-09-20T06:48:25.793Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "esghqeqjhlel5sch1kwviorhgs101nwa",
+    "fields": {
+        "session_data": "e30:1mN8Cz:WflUeu9dJHyGmE9PlbyTVX9VXfUDTnC-V-n3L1ec70o",
+        "expire_date": "2021-09-20T06:34:21.316Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "gqhdl71yov4vr9hdkt098u964mr4i2es",
+    "fields": {
+        "session_data": "e30:1mN8KA:SvP3iRy3zG9EztD9AQzrY1lZHxDlfbLn5WAqU1TkiQg",
+        "expire_date": "2021-09-20T06:41:46.510Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "i6vlxitkg17qntbjj4ycdes8yo2ixoar",
+    "fields": {
+        "session_data": "e30:1mN8LT:QtX0zWdaQtg_Q0oWRTgLRpGoNJ8D7d5sH3y22a5RNcQ",
+        "expire_date": "2021-09-20T06:43:07.590Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ilvs5dbtk6ksuy7ogu0r9p4hdayre2v9",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSG8JoJL934DmRlAqgaS0q4a_12bdKHbe865m4i4LjWuI89xSuIitDj9boT8zG0H6YHt3iX3tswTyV2RBx3y1lN-XQ_376DiqN_aIgEWXwANnj2zcgWsLtkAQYBQlNNkg9fOJXJKG-ZAZJl9IVSenHh_APKNOFA:1mKHsk:t7EAJ_8lAuBzVKsVU-sBeqHCHjxMHVxdujvb6gJrpmw",
+        "expire_date": "2021-09-12T10:17:42.312Z"
+    }
+},
+{
+    "model": "teams.team",
+    "pk": 1,
+    "fields": {
+        "image": "photos/2021/08/29/avatar-11.jpg",
+        "first_name": "Raju",
+        "last_name": "Pinnam",
+        "designation": "Manager",
+        "facebook_link": null,
+        "twitter_link": null,
+        "google_plus_link": null,
+        "created_date": "2021-08-29"
+    }
+},
+{
+    "model": "teams.team",
+    "pk": 2,
+    "fields": {
+        "image": "photos/2021/08/29/avatar-1.jpg",
+        "first_name": "Himanshu",
+        "last_name": "Grover",
+        "designation": "Tester",
+        "facebook_link": null,
+        "twitter_link": null,
+        "google_plus_link": null,
+        "created_date": "2021-08-29"
+    }
+},
+{
+    "model": "teams.team",
+    "pk": 3,
+    "fields": {
+        "image": "photos/2021/08/29/avatar-2.jpg",
+        "first_name": "Rashmi",
+        "last_name": "Kashyap",
+        "designation": "Front end developer",
+        "facebook_link": null,
+        "twitter_link": null,
+        "google_plus_link": null,
+        "created_date": "2021-08-29"
+    }
+},
+{
+    "model": "teams.team",
+    "pk": 4,
+    "fields": {
+        "image": "photos/2021/08/29/avatar-3.jpg",
+        "first_name": "Ranjan",
+        "last_name": "Mittal",
+        "designation": "Tester",
+        "facebook_link": null,
+        "twitter_link": null,
+        "google_plus_link": null,
+        "created_date": "2021-08-29"
+    }
+},
+{
+    "model": "teams.team",
+    "pk": 5,
+    "fields": {
+        "image": "photos/2021/08/29/avatar-9.jpg",
+        "first_name": "Mandeep",
+        "last_name": "Kaur",
+        "designation": "Developer",
+        "facebook_link": null,
+        "twitter_link": null,
+        "google_plus_link": null,
+        "created_date": "2021-08-29"
+    }
+},
+{
+    "model": "teams.team",
+    "pk": 6,
+    "fields": {
+        "image": "photos/2021/08/29/avatar-10.jpg",
+        "first_name": "Rithu",
+        "last_name": "Goud",
+        "designation": "Developer",
+        "facebook_link": null,
+        "twitter_link": null,
+        "google_plus_link": null,
+        "created_date": "2021-08-29"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "title": "2017 Ferrari 488 GTB",
+        "state": "CA",
+        "city": "austin",
+        "color": "Whie",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Used",
+        "price": "50000.00",
+        "description": "<p>The&nbsp;<strong>Ferrari 488</strong>&nbsp;(Type F142M) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a>&nbsp;produced by the Italian automobile manufacturer&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>.</p>\r\n\r\n<p>The car is powered by a 3.9-litre&nbsp;<a href=\"https://en.wikipedia.org/wiki/Twin-turbocharged\" title=\"Twin-turbocharged\">twin-turbocharged</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/V8_engine\" title=\"V8 engine\">V8 engine</a>, smaller in displacement but generating a higher power output than the 458&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Naturally_aspirated_engine\" title=\"Naturally aspirated engine\">naturally aspirated engine</a>. The 488 GTB was named &quot;The Supercar of the Year 2015&quot; by car magazine&nbsp;<a href=\"https://en.wikipedia.org/wiki/Top_Gear_(magazine)\" title=\"Top Gear (magazine)\"><em>Top Gear</em></a>, as well as becoming&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Motor_Trend\" title=\"Motor Trend\">Motor Trend</a></em>&#39;s 2017 &quot;Best Driver&#39;s Car&quot;.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-7\">[7]</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jeremy_Clarkson\" title=\"Jeremy Clarkson\">Jeremy Clarkson</a>&nbsp;announced the 488 Pista as his 2019 Supercar of the Year.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-8\">[8]</a>&nbsp;The 488 was succeeded by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F8_Tributo\" title=\"Ferrari F8 Tributo\">F8 Tributo</a>&nbsp;in February 2019.</p>",
+        "car_photo": "cars/2021/08/31/1902536891.jpg",
+        "car_photo_1": "cars/2021/08/31/1902537043.jpg",
+        "car_photo_2": "cars/2021/08/31/1902537043_AKAwArL.jpg",
+        "car_photo_3": "cars/2021/08/31/1902537077.jpg",
+        "car_photo_4": "cars/2021/08/31/1902537082.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,Power Steering,Direct Fuel Injection",
+        "body_style": "Sports",
+        "engine": "3.9 L twin-turbocharged Ferrari F154CB V8",
+        "transmission": "7-speed dual-clutch automatic",
+        "interior": "Grey",
+        "miles": "5000.00",
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "VIN1234dt",
+        "fule_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-08-31T05:17:13.147Z",
+        "updated_date": "2021-08-31T04:59:22.489Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "title": "2018 Toyota Corolla",
+        "state": "GA",
+        "city": "South Hampton",
+        "color": "Whie",
+        "model": "Corolla",
+        "year": 2018,
+        "condition": "Used",
+        "price": "22342.00",
+        "description": "<p>The&nbsp;<strong>E170/E180 series Toyota Corolla</strong>&nbsp;is the eleventh-generation of the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Corolla\" title=\"Toyota Corolla\">Corolla</a>&nbsp;that has been sold internationally since 2013. Two basic front and rear styling treatments are fitted to the E170&mdash;a North American version that debuted first&mdash;and a more conservative design for all other markets that debuted later in 2013. For the Japanese and Hong Kong markets, the smaller and unrelated&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Corolla_(E160)\" title=\"Toyota Corolla (E160)\">E160 model</a>&nbsp;is offered instead; the Japanese version remains compliant with Japanese government&nbsp;<a href=\"https://en.wikipedia.org/wiki/Vehicle_size_class#Japan\" title=\"Vehicle size class\">dimension regulations</a>. The E170/E180 has an increased wheelbase of 100&nbsp;mm longer than the previous generation. The E170/E180 derives from the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_MC_platform#New_MC\" title=\"Toyota MC platform\">Toyota New MC platform</a>, unlike the E160 based on the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_B_platform\" title=\"Toyota B platform\">B platform</a>.</p>",
+        "car_photo": "cars/2021/08/31/1900893299.jpg",
+        "car_photo_1": "cars/2021/08/31/1900893311.jpg",
+        "car_photo_2": "cars/2021/08/31/1900893319.jpg",
+        "car_photo_3": "cars/2021/08/31/1900893329.jpg",
+        "car_photo_4": "",
+        "features": "Airbags,Air Conditioning,Power Steering,Wind Deflector",
+        "body_style": "4-door saloon/sedan",
+        "engine": "1.2 L 8NR-FTS I4 (turbocharged petrol)",
+        "transmission": "5/6-speed manual",
+        "interior": "Barcelona Red Metallic",
+        "miles": "76951.00",
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "VIN158945",
+        "fule_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": false,
+        "created_date": "2021-08-31T05:17:08.634Z",
+        "updated_date": "2021-08-31T05:07:28.832Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "title": "Jaguar F-PACE",
+        "state": "VA",
+        "city": "Bedford",
+        "color": "Blue",
+        "model": "F-PACE",
+        "year": 2018,
+        "condition": "Used",
+        "price": "102163.00",
+        "description": "<p>The&nbsp;<strong>Jaguar F-Pace</strong>&nbsp;(X761) is a compact SUV made by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>, a British&nbsp;<a href=\"https://en.wikipedia.org/wiki/Automaker\" title=\"Automaker\">car manufacturer</a>, under their&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Cars\" title=\"Jaguar Cars\">Jaguar marque</a>. It is the first model to be built by Jaguar in the SUV class. It was formally announced at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/North_American_International_Auto_Show#2015\" title=\"North American International Auto Show\">2015 North American International Auto Show</a>&nbsp;in Detroit, with sales commencing in 2016 following an unveiling at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/International_Motor_Show_Germany#2015\" title=\"International Motor Show Germany\">International Motor Show Germany</a>&nbsp;in Frankfurt in September 2015.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-4\">[4]</a>&nbsp;The design of the F-Pace is based on the 2013&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_C-X17\" title=\"Jaguar C-X17\">Jaguar C-X17</a>&nbsp;concept car.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-BBC_News_120115-5\">[5]</a>&nbsp;The 2017 Jaguar F-PACE has been named the honorary winner of the 2017 World Car of the Year and World Car Design of the Year Awards at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/New_York_International_Auto_Show\" title=\"New York International Auto Show\">New York International Auto Show</a>.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-6\">[6]</a></p>",
+        "car_photo": "cars/2021/08/31/1902932503.jpg",
+        "car_photo_1": "cars/2021/08/31/1902932514.jpg",
+        "car_photo_2": "cars/2021/08/31/1902932528.jpg",
+        "car_photo_3": "cars/2021/08/31/1902932542.jpg",
+        "car_photo_4": "",
+        "features": "Audio Interface,Airbags,Air Conditioning,Power Steering,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "Compact luxury crossover SUV",
+        "engine": "1999 cc, 4 Cylinders Inline, 4 Valves/Cylinder, DOHC",
+        "transmission": "Automatic - 8 Gears, Paddle Shift, Sport Mode",
+        "interior": "RGB",
+        "miles": "95000.00",
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "VIN123ADOC",
+        "fule_type": "Disel",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2021-08-31T05:44:38.342Z",
+        "updated_date": "2021-08-31T05:44:38.343Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "Padmaraju",
+        "last_name": "Pinnam",
+        "car": 2,
+        "customer_need": "I'm interested in this",
+        "city": "Bedford",
+        "state": "NH",
+        "email": "pinnampadmaraju@gmail.com",
+        "phone": "",
+        "message": "",
+        "user": [
+            "padmaraju"
+        ],
+        "created_at": "2021-09-05T18:18:07.153Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "Padmaraju",
+        "last_name": "Pinnam",
+        "car": 1,
+        "customer_need": "I'd like to test drive this",
+        "city": "South Hampton",
+        "state": "SH",
+        "email": "pinnampadmaraju@gmail.com",
+        "phone": "",
+        "message": "Want to test drive",
+        "user": [
+            "padmaraju"
+        ],
+        "created_at": "2021-09-06T06:52:17.773Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-08-29T10:18:07.911Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "padmaraju",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-08-29T15:25:45.379Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "teams",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Raju-Pinnam",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-08-29T15:27:49.818Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "teams",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Himanshu-Grover",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-08-29T15:28:13.937Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "teams",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Rashmi-Kashyap",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-08-29T15:28:33.677Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "teams",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Ranjan-Mittal",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-08-29T15:28:42.174Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "teams",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Ranjan-Mittal",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-08-29T15:29:03.199Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "teams",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Mandeep-Kaur",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-08-29T15:29:28.582Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "teams",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Rithu-Goud",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-08-31T04:59:22.547Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-08-31T05:07:28.841Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-08-31T05:17:04.621Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-08-31T05:17:08.638Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-08-31T05:17:08.649Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-08-31T05:17:13.152Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-08-31T05:44:38.352Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Jaguar F-PACE",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-09-05T15:53:52.899Z",
+        "user": [
+            "padmaraju"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "testu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+}
+]

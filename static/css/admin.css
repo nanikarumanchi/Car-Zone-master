@@ -1,0 +1,28 @@
+#header {
+	background-color: wheat;
+	color: #ff0000;
+	box-shadow: 0px 0px 3px 0px #ff0000;
+}
+#header a:link,
+#header a:visited {
+	color: black;
+}
+/* .main > .content {
+	background-color: dimgrey;
+}
+
+div.breadcrumbs {
+	background-color: black;
+}
+#changelist {
+	background-color: #5e5e5c;
+}
+
+form,
+#changelist-form .results {
+	background-color: #383832;
+	box-shadow: 2px #ff0000;
+}
+#changelist .actions {
+	background-color: aquamarine;
+} */
